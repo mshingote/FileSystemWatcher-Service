@@ -1,0 +1,8 @@
+c:\users\darkneo\documents\visual studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe.config
+c:\users\darkneo\documents\visual studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe
+c:\users\darkneo\documents\visual studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.pdb
+c:\users\darkneo\documents\visual studio 2012\Projects\File System Watcher\File System Watcher\obj\Debug\File System Watcher.csprojResolveAssemblyReference.cache
+c:\users\darkneo\documents\visual studio 2012\Projects\File System Watcher\File System Watcher\obj\Debug\File_System_Watcher.ProjectInstaller.resources
+c:\users\darkneo\documents\visual studio 2012\Projects\File System Watcher\File System Watcher\obj\Debug\File System Watcher.csproj.GenerateResource.Cache
+c:\users\darkneo\documents\visual studio 2012\Projects\File System Watcher\File System Watcher\obj\Debug\File System Watcher.exe
+c:\users\darkneo\documents\visual studio 2012\Projects\File System Watcher\File System Watcher\obj\Debug\File System Watcher.pdb

@@ -1,0 +1,39 @@
+﻿Installing assembly 'C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.InstallLog
+   assemblypath = C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe
+Installing service OnlineFileSystemWatcher...
+Service OnlineFileSystemWatcher has been successfully installed.
+Creating EventLog source OnlineFileSystemWatcher in log Application...
+Committing assembly 'C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.InstallLog
+   assemblypath = C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe
+Installing assembly 'C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.InstallLog
+   assemblypath = C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe
+Installing service OnlineFileSystemWatcher...
+Service OnlineFileSystemWatcher has been successfully installed.
+Creating EventLog source OnlineFileSystemWatcher in log Application...
+Committing assembly 'C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.InstallLog
+   assemblypath = C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe
+Installing assembly 'C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.InstallLog
+   assemblypath = C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe
+Installing service OnlineFileSystemWatcher...
+Service OnlineFileSystemWatcher has been successfully installed.
+Creating EventLog source OnlineFileSystemWatcher in log Application...
+Committing assembly 'C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.InstallLog
+   assemblypath = C:\Users\DarkNeo\Documents\Visual Studio 2012\Projects\File System Watcher\File System Watcher\bin\Debug\File System Watcher.exe
